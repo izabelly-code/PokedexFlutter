@@ -1,16 +1,53 @@
-# untitled
+# PokedexFlutter 🐾
 
-A new Flutter project.
+PokedexFlutter é um aplicativo desenvolvido em Flutter que funciona como uma Pokédex, permitindo ao usuário visualizar, pesquisar e favoritar diferentes Pokémon. O projeto é uma ótima demonstração de arquitetura Flutter moderna, incluindo o uso de Provider para gerenciamento de estado.
 
-## Getting Started
+## ⚡ Funcionalidades
 
-This project is a starting point for a Flutter application.
+- 📋 **Listagem de Pokémon**: Exibe uma lista de Pokémon, permitindo navegar entre diferentes criaturas.
+- 🔍 **Detalhes do Pokémon**: Ao selecionar um Pokémon, o usuário pode visualizar detalhes completos sobre ele.
+- ⭐ **Favoritos**: O usuário pode favoritar/desfavoritar Pokémon, mantendo uma lista de favoritos que pode ser acessada separadamente.
+- 🗂️ **Gerenciamento de estado com Provider**: O app utiliza o pacote Provider para gerenciar o estado global dos favoritos de forma eficiente.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 💙 **Flutter**: Framework principal para desenvolvimento mobile multiplataforma.
+- 🔗 **Provider**: Biblioteca para gerenciamento de estado.
+- 🎯 **Dart**: Linguagem principal do projeto.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Como executar
+
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/izabelly-code/PokedexFlutter.git
+   cd PokedexFlutter
+   ```
+
+2. **Instale as dependências**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Execute o projeto**
+   ```bash
+   flutter run
+   ```
+
+## 🗂 Estrutura do Projeto
+
+- `lib/main.dart`: Ponto de entrada do app.
+- `lib/screen/`: Telas principais, como listagem, detalhes e favoritos.
+- `lib/provider/`: Gerenciamento de estado (ex: favoritos).
+- `lib/model/`: Modelos de dados do app.
+
+## 🤝 Contribuição
+
+Sinta-se à vontade para abrir issues ou pull requests para sugerir melhorias, corrigir bugs ou adicionar funcionalidades! 💡
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT.
+
+---
+
+Desenvolvido por [izabelly-code](https://github.com/izabelly-code) 🚀
