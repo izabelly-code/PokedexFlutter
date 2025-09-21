@@ -1,6 +1,7 @@
 # PokedexFlutter 🐾
 
-PokedexFlutter é um aplicativo desenvolvido em Flutter que funciona como uma Pokédex, permitindo ao usuário visualizar, pesquisar e favoritar diferentes Pokémon. O projeto é uma ótima demonstração de arquitetura Flutter moderna, incluindo o uso de Provider para gerenciamento de estado.
+PokedexFlutter é um aplicativo desenvolvido em Flutter que funciona como uma Pokédex, permitindo ao usuário visualizar, pesquisar e favoritar diferentes Pokémon. O projeto é uma ótima demonstração de arquitetura Flutter moderna, incluindo o uso de Provider para gerenciamento de estado. Link demonstração [Assista ao vídeo de demonstração][(https://link-para-o-video.mp4](https://youtu.be/QWqqp2BDiKo))
+
 
 ## ⚡ Funcionalidades
 
